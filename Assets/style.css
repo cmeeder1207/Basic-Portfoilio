@@ -1,0 +1,40 @@
+/* setting the background for the body */
+body {
+    background-image : url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffffff&noise=5c5c5c&density=13&opacity=62);
+}
+/* setting header functions */
+header{background:#4aaaa5;color:white;float: left;padding: 50px;font-size: 30px }
+
+.box{position: inherit; width:800px;height: 100px;background: #ffffff;bottom:-100px}
+
+.head{position: inherit;float: initial;width: 1000px;height: 200px}
+
+h2{font-size: 155%;color:#4aaaa5;font-size: 30px}
+/* setting up links */
+.contact{float: right;padding: 25px;background: #ffffff}
+
+.portfolio{float: right;padding: 25px;background: #ffffff}
+
+.about{float: right;padding: 25px;background: #ffffff}
+
+/* setting up bio and setting width of streen */
+
+.container{max-width: 960px;padding: 50px;margin:auto}
+
+.bio{position:inherit;margin:100;background: #ffffff;padding:50;margin-top:200px;
+    margin-right: 400px;margin-left: 400px;padding:2%;right:100px}
+
+.line{position:fixed; background-color: grey;width: 2000px;height: 2px; width: 1050px}
+
+p{font-size:18px}
+
+.links{font-family: fantasy;font-size: 103%;margin: 5px;float: initial}
+
+a:hover{background-color:#4aaaa5}
+
+a:active{background-color: purple }
+
+a:visited{background-color: grey}
+
+a:focused{background-color: black}
+
