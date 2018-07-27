@@ -22,7 +22,7 @@ h2{font-size: 155%;color:#4aaaa5;font-size: 30px}
 .container{max-width: 960px;padding: 50px;margin:auto}
 
 .bio{position:inherit;margin:100;background: #ffffff;padding:50;margin-top:200px;
-    margin-right: 400px;margin-left: 400px;padding:2%;right:100px}
+    margin-right: 400px;margin-left: 400px;padding:2%;right:1000px}
 
 .line{position:fixed; background-color: grey;width: 2000px;height: 2px; width: 1050px}
 
@@ -38,3 +38,19 @@ a:visited{background-color: grey}
 
 a:focused{background-color: black}
 
+#contact_form{position:inherit;margin:100;background: #ffffff;padding:50;margin-top:200px;
+    margin-right: 400px;margin-left: 400px;padding:2%;right:1000px}
+
+    /* Container holding the image and the text */
+
+
+/* Bottom right text */
+.text-block {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
